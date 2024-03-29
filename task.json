@@ -1,0 +1,6 @@
+{
+  "type": "deno",
+  "command": "task",
+  "args": ["build"],
+  "cwd": "."
+}
